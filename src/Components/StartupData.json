@@ -1,0 +1,217 @@
+[{
+    "id": 1,
+    "name": "SenMe",
+    "description": "SenMe is a delivery app with real time tracking system, it connect users with a reliable and convenient delivery service at their fingertips.",
+    "aboutStartups": "SenMe is a delivery app with real time tracking system, it connect users with a reliable and convenient delivery service at their fingertips.",
+    "founded": 2021,
+    "industry": "E-commerece",
+    "location": "",
+    "startUpLogo": "https://static.wixstatic.com/media/275378_cf7887d48d9541a1a81409bed4cb12ad~mv2.png/v1/fill/w_126,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SENDME_PNG.png",
+    "links": [
+        {
+            "website": "https://www.sendmesl.com/",
+            "x": "",
+            "facebook": "https://www.facebook.com/sendmesl/",
+            "Instagram": ""
+        }
+    ]
+},
+{
+    "id": 2,
+    "name": "Mochala",
+    "description": "where traditional mobile meets mordern maoney. Experience instant, fee-free money trnasfer across borders through WhatsApp",
+    "aboutStartups": "A pioner Finicial service design for the african continents. Mocha break down the barriers of traditional finanicail services, offering a simple, instant and efficient way to send and receive money",
+    "founded": 2023,
+    "industry": "FinTech",
+    "location": "FBC, law faculty Christex fundation",
+    "startUpLogo": "https://cdn.prod.website-files.com/65edcb584defce80eb6ad17a/65fac052661672e10e865eb3_Group.svg",
+    "links": [
+        {
+            "website": "",
+            "x": "",
+            "facebook": "",
+            "Instagram": ""     
+        }
+    ]
+},
+{
+    "id": 3,
+    "name": "monime",
+    "description": "Monime offers business comprehensive digital payment solutions,including payouts and full-stack APIs for developer to seamless integration of these functionalities into their operations.",
+    "aboutStartups": "Monime offers business comprehensive digital payment solutions,including payouts and full-stack APIs for developer to seamless integration of these functionalities into their operations.",
+    "founded": 2024,
+    "industry": "FinTech",
+    "location": "5 Hillside Bypass Road, Freetown",
+    "startUpLogo": "https://monime.io/_next/image?url=%2Fmonime.png&w=256&q=75",
+    "links": [
+        {
+            "website": "https://monime.io",
+            "x": "",
+            "facebook": "https://www.facebook.com/monimesl",
+            "instagram": ""
+        }
+    ]
+},
+{
+    "id": 4,
+    "name": "Sierra Dental Clinic",
+    "description": "Dental HealthCare facility that provides personalized treatments tailored to your individual needs.",
+    "aboutStartups": "Dental HealthCare facility that provides personalized treatments tailored to your individual needs.",
+    "founded": 2023,
+    "industry": "HealthCare",
+    "location": "18 Johnson Street, Freetown",
+    "startUpLogo": "https://www.sierradentsl.com/uploads/SIERRALogo8.png",
+    "links": [{
+        "website": "https://www.sierradentsl.com",
+        "x": "",
+        "facebook": "",
+        "instagram": ""
+    }]
+},
+{
+    "id": 5,
+    "name": "Life Blood",
+    "description": "A digit health platform, which is developed to help address the problem of acute shortages in blood products in the country's health care delivery system.",
+    "aboutStartups": "A digit health platform, which is developed to help address the problem of acute shortages in blood products in the country's health care delivery system",
+    "founded": 2023,
+    "industry": "HealthCare",
+    "location": "7 Malama Thomas Street, Freetown",
+    "startUpLogo": "https://lifebloodsl.com/images/lb-logo.png",
+    "links": [{
+        "website": "https://lifebloodsl.com",
+        "x": "",
+        "facebook": "https://www.facebook.com/lifebloodsl",
+        "instagram": ""
+    }]
+
+},
+{
+    "id": 6,
+    "name": "Oswald's Tech Company Limited",
+    "description": "Harnessing the power of sea salt water to power homes and vihicle",
+    "aboutStartups": "Harnessing the power of sea salt water to power homes and vihicle",
+    "founded": 2021,
+    "industry": "Energy",
+    "location": "",
+    "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-1/248041221_3014776112104370_3595719997041195088_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=JpvYJNDCltcQ7kNvgGBYDj-&_nc_oc=AdjfRkbltsep8e7PKZvOccrCEcxCDyK6w7NsXdOOGclJWo0nKNLz6wJHPnijaN_WpgU&_nc_zt=24&_nc_ht=scontent.ffna3-1.fna&_nc_gid=AGeCUc7bxrdk3B4hXYeAboe&oh=00_AYHFuDMBGfzDOFw6vB0Y85MKqlQ3wSeHQe5kFrxlqnrRiQ&oe=67D8D6FD",
+    "links": [{
+        "website": "",
+        "x": "",
+        "facebook": "https://www.facebook.com/photo/?fbid=692874332853035&set=a.692874322853036",
+        "instagram": ""
+    }]
+},
+{
+    "id": 7,
+    "name": "Easy Solar",
+    "description": "",
+    "aboutStartups": "",
+    "founded": 2020,
+    "industry": "Energy",
+    "location": "",
+    "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/306746445_528437682617455_5491255769934318515_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=cRtGbDuseg0Q7kNvgEn411e&_nc_oc=AdhU-nnxhSKkxMAvsgTPHnetMGnlZjqclVsk3mGj6vEQ3Q9WsVXN26sBlA06Ayc3hmE&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=ArMfu5kOIgScSEZEVPxgjqh&oh=00_AYEJQBQs1k0BuesZlVK73ksiO_3hmu7c4HfrWWNk0JBXQQ&oe=67D8EADF",
+    "links": [{
+        "website": "",
+        "x": "",
+        "instagram": ""
+    }]
+},
+{
+    "id": 8,
+    "name": "Salone Agro Market",
+    "description": "Salone Agro Market is a digital online platform based in Sierra Leone that connects farm to markets in an easy secure and convenient manner, the bridge that solve the connectivity gap between buyers and sellers of a agricultural products",
+    "aboutStartups": "Salone Agro Market is a digital online platform based in Sierra Leone that connects farm to markets in an easy secure and convenient manner, the bridge that solve the connectivity gap between buyers and sellers of a agricultural products",
+    "founded": 2023,
+    "industry": "E-commerece",
+    "location": "3 Malta Street, Freetown, Sierra Leone",
+    "startUpLogo": "https://saloneagromarket.com/wp-content/uploads/2022/04/facebook_cover_photo_1-6.png",
+    "links": [{
+        "website": "https://saloneagromarket.com/",
+        "x": "",
+        "facebook": "",
+        "instagram": ""
+    }]
+},
+{
+    "id": 9,
+    "name": "Eco-Smart",
+    "description": "Eco-Smart is a cutting-edge mobile application designed to empower communitties across Sierra Leone with real-time, accessible climate information",
+    "aboutStartups": "Eco-Smart is a cutting-edge mobile application designed to empower communitties across Sierra Leone with real-time, accessible climate information",
+    "founded": 2023,
+    "industry": "Climate Change",
+    "location": "5 Soldier Street, Freetown",
+    "startUpLogo": "https://eco-smartapp.com/wp-content/uploads/2025/01/ECO-SMART-LOGO.png-LONG-VERSION-PNG-768x171.png",
+    "links": [{
+        "website": "https://eco-smartapp.com/",
+        "x": "",
+        "facebook": "",
+        "instagram": ""
+    }]
+},
+{
+    "id": 10,
+    "name": "Route 360 Solutions Initiative",
+    "description": "Route 360 Solutions Initiative provides alternatives to conventional construction materials.By collecting recyclable plastic waste material and transform them into eco-friendly bricks and paver for house construction and outdoor pavement.",
+    "aboutStartups":"Route 360 Solutions Initiative provides alternatives to conventional construction materials.By collecting recyclable plastic waste material and transform them into eco-friendly bricks and paver for house construction and outdoor pavement.",
+    "founded": 2023,
+    "industry": "Construction",
+    "location": "18 Johnson Street, Freetown",
+    "startUpLogo": "https://www.route360solutionsinitiative.com/wp-content/uploads/2024/05/Route-360-Logo-92x61.jpg",
+    "links": [{
+        "website": "https://www.route360solutionsinitiative.com/",
+        "x": "",
+        "facebook": "",
+        "instagram": ""
+    }]
+    
+}, 
+{
+    "id": 11,
+    "name": "The Community",
+    "description": "Peer to Peer (P2P) lending platform where lenders can invest and borrower (small businesses) can access to micro loans their business.",
+    "aboutStartups": "Peer to Peer (P2P) lending platform where lenders can invest and borrower (small businesses) can access to micro loans their business.",
+    "founded": 2023,
+    "industry": "FinTech",
+    "location": "10 Sir Samuel Lewis Street, Freetown",
+    "startUpLogo": "https://static.wixstatic.com/media/aac41b_3dbe9ee34dca4f31ad78194875014309~mv2.png/v1/crop/x_133,y_116,w_839,h_358/fill/w_146,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202022-11-14%20at%2012_26_27%20PM%20(4).png",
+    "links": [{
+        "website": "https://www.thecommunitysl.com/",
+        "x": "",
+        "facebook": "https://www.facebook.com/thecommunitysl",
+        "instagram": ""
+    }]
+},
+{
+    "id": 12,
+    "name": "BudgIT Sierra Leone",
+    "description": "BudgIT is a civic startup that applies technology to intersect citizen engagement with institutional improvement, to facilitate societal change.",
+    "aboutStartups": "BudgIT is a civic startup that applies technology to intersect citizen engagement with institutional improvement, to facilitate societal change.",
+    "founded": 2024,
+    "industry": "NGO",
+    "location": "364B Bai Bureh Road, Calaba Town, Freetown",
+    "startUpLogo": "https://sierraleone.budgit.org/wp-content/uploads/2021/06/BudgIT_logo_SL.svg",
+    "links": [{
+        "website": "https://sierraleone.budgit.org/",
+        "x": "",
+        "facebook": "https://www.facebook.com/BudgitSLeone",
+        "instagram": ""
+    }]
+},
+{
+    "id": 13,
+    "name": "Greentech Bioenergy",
+    "description": "Use portable domestic biodigester to help households, farmers and institutions to convert their organic waste into clean cooking biogas and nutrients-rich biofertilizer.",
+    "aboutStartups": "Use portable domestic biodigester to help households, farmers and institutions to convert their organic waste into clean cooking biogas and nutrients-rich biofertilizer.",
+    "founded": 2023,
+    "industry": "Energy",
+    "location": "",
+    "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-1/318615874_114227954856160_804708186197934055_n.jpg?stp=c118.0.413.413a_dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=yuWoLuGrqFYQ7kNvgGagwGU&_nc_oc=AdiLcj-vajPlepNamQozjXVZo_BE3SaTCsLdQ8oQls0T8iMDllFq5Nj9AEMylkv4i9w&_nc_zt=24&_nc_ht=scontent.ffna3-1.fna&_nc_gid=osf_nnd0SJWuPnkEh9qn1A&oh=00_AYEUT41g9WUEdddc6tdmUw8FFTC8t3wrP5NSigmN3qCBkA&oe=67DA454E",
+    "links": [{
+        "website": "",
+        "x": "",
+        "facebook": "https://www.facebook.com/profile.php?id=100088068684352",
+        "instagram": ""
+    }]
+}
+
+]
