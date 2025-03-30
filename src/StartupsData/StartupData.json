@@ -1,0 +1,604 @@
+[
+    {
+        "id": 1,
+        "name": "SenMe",
+        "service": "Provides Delivery/pickups service with real time tracking system.",
+        "aboutStartups" :{
+            "about" : "   Send Me is a comprehensive logistics and delivery service with robust ecommerce capabilities, providing seamless ordering, product purchases, and item pickups through a unified platform accessible via web and native mobile applications.",
+            "phone": 23278691733,
+            "location": "16 river drive, Off Kingharman road, freetown",
+            "founded": 2021,
+            "operationHours": {
+                "open": "9:00",
+                "close": "9:00"
+            }
+        },
+        "industry": "Transportation/Logistics",
+        "startUpLogo": "https://static.wixstatic.com/media/275378_cf7887d48d9541a1a81409bed4cb12ad~mv2.png/v1/fill/w_126,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SENDME_PNG.png",
+        "links": 
+            {
+                "website": "https://www.sendmesl.com/",
+                "x": "https://x.com/sendme_sl",
+                "facebook": "https://www.facebook.com/sendmesl/"
+                
+            },
+        
+        "reviews" : [
+            {
+                "id":1,
+                "author": "Mohamed Sesay",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "SenMe has made my deliveries so much easier! The real-time tracking feature gives me peace of mind, knowing exactly where my package is at all times. Highly reliable!",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id":2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "SenMe has made my deliveries so much easier! The real-time tracking feature gives me peace of mind, knowing exactly where my package is at all times. Highly reliable!",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    { 
+        "id": 2,
+        "name": "Mocha",
+        "service": "Financial Service and remittance",
+        "aboutStartups": {
+            "about" : "A pioner Financial service design for the african continents. Mocha break down the barriers of traditional financial services, offering a simple, instant and efficient way to send and receive money",
+            "phone": 23273938372,
+            "location": "Christex foundation, Lower faculty, FBC, Freetown",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "FinTech",
+        "startUpLogo": "https://cdn.prod.website-files.com/65edcb584defce80eb6ad17a/65fac052661672e10e865eb3_Group.svg",
+        "links": 
+            {
+                "website": "https://www.getmocha.io/",
+                "x": "https://x.com/getmochala",
+                "facebook": "https://www.facebook.com/profile.php?id=61561553330663&is_tour_completed",
+                "Instagram": "https://www.instagram.com/getmochala/"     
+            },
+        
+        "reviews" : [
+            {
+                "id":1,
+                "author": "Kadiatu Bangura",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "Finally, a financial service that understands Africa’s needs! Instant transfers with no hidden fees—Mochala is my go-to for sending money to family.",
+                "createdAt": "2023-11-05"
+            }
+         
+        ]
+    },
+    {
+        "id": 3,
+        "name": "monime",
+        "service": "Digital payment solutions for businesses.",
+        "aboutStartups":{
+            "about" : "Monime offers business comprehensive digital payment solutions,including payouts and full-stack APIs for developer to seamless integration of these functionalities into their operations.",
+            "location":  "5 Hillside Bypass Road, Freetown",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "FinTech",
+        "startUpLogo": "https://monime.io/_next/image?url=%2Fmonime.png&w=256&q=75",
+        "links": 
+            {
+                "website": "https://monime.io",
+                "x": "https://x.com/monimesl",
+                "facebook": "https://www.facebook.com/monimesl",
+                "instagram": "https://www.instagram.com/monimesl/"
+            },
+        
+        "reviews" : [
+            {
+                "id":1,
+                "author": "Edward Karbgo",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "As a developer, Monime’s API integration is seamless! The platform is perfect for businesses that need reliable digital payment solutions.",
+                "createdAt": "2024-11-05"
+            },
+            {
+                "id":2,
+                "author": "Isatu Manasaray",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "I love the convenience Monime brings to online payments. Just wish they had more partnerships with local banks for easier withdrawals..",
+                "createdAt": "2024-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sierra Dental Clinic",
+        "service": "Dental HealthCare",
+        "aboutStartups": {
+            "about" : "Dental HealthCare facility that provides personalized treatments tailored to your individual needs.",
+            "phone" : 23276232232,
+            "location": "18 Johnson Street, Freetown",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "HealthCare",
+        "startUpLogo": "https://www.sierradentsl.com/uploads/SIERRALogo8.png",
+        "links":{
+            "website": "https://www.sierradentsl.com",
+            "x": "",
+            "facebook": "",
+            "instagram": ""
+        },
+        "reviews" : [
+            {
+                "id":1,
+                "author": "Mohamed Kamara",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "Professional and friendly staff! My tooth extraction was painless, and they provided excellent aftercare instructions. Highly recommend Sierra Dental Clinic!",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id":2,
+                "author": "Zaainabu Kamara",
+                "rating": "⭐⭐⭐ (3/5)",
+                "comment": "Good clinic, but appointment slots are limited. I had to wait a week before I could see a dentist.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Life Blood",
+        "service": "A digital health platform, for blood donation",
+        "aboutStartups":{
+            "about": "A digit health platform, which is developed to help address the problem of acute shortages in blood products in the country's health care delivery system",
+            "phone" : 23278621647,
+            "location": "7 Malama Thomas Street, Freetown",
+            "founded": 2022,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "HealthCare",
+        "startUpLogo": "http://lifebloodsl.com/images/lb-logo.png",
+        "links": {
+            "website": "http://lifebloodsl.com/",
+            "x": "https://x.com/LifeBloodSL",
+            "facebook": "https://www.facebook.com/lifebloodsl",
+            "instagram": "https://www.instagram.com/lifeblood232/"
+        },
+        "reviews" : [
+            {
+                "id":1,
+                "author": "Sorie Bah",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "This platform is saving lives! The process of finding blood donors is now much easier, and hospitals can respond to emergencies faster.",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id":2,
+                "author": "Kadiatu Turay",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "A fantastic initiative, but they should raise more awareness so more people sign up as donors.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+
+    },
+    {
+        "id": 6,
+        "name": "Oswald's Tech Company Limited",
+        "service": "solar energy for homes",
+        "aboutStartups":{
+            "about": "Oswald Tech LTD is an innovative startup revolutionizing renewable energy with its Water Light Technology, which converts saltwater into clean electrical energy using ionized electrolytes and magnesium. Focused on sustainability, the company aims to reduce waste and provide efficient, eco-friendly energy solutions.",
+            "phone" : 23278020555,
+            "location": "26 Pike Street, Freetown",
+            "founded": 2021,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "Energy",
+        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/248041221_3014776112104370_3595719997041195088_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xTAtV8o8ddEQ7kNvgFvqBSl&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=DJvBNkRzHO63UfWs7RjceA&oh=00_AYHMikSSJMp-xps92mXYqHsbWh7I82XIqsCZWMIhD8jcmg&oe=67EE177F",
+        "links": {
+            "website": "#",
+            "x": "#",
+            "facebook": "https://www.facebook.com/oswaldtechltd",
+            "instagram": "#"
+        },
+        "reviews" : [
+            {
+                "id":1,
+                "author": "fatmata Kamara",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "I was skeptical at first, but their sea salt water energy solution is truly innovative! My home is now powered efficiently, and I’ve seen a reduction in my energy costs. Excited to see where this technology goes!",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id":2,
+                "author": "David M",
+                "rating": "⭐⭐⭐ (3/5)",
+                "comment": "A game changer for renewable energy! However, I hope they expand their support services because installation took longer than expected. Otherwise, great product!",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Easy Solar",
+        "service": "solar energy for homes",
+        "aboutStartups": {
+            "about":"Easy Solar is a distribution and asset financing company that buys solar lamps and solar home systems from reliable manufacturers and sells them using a Pay-As-You-Go (PAYG) financing structure, enabled by the technology embedded in the lamps and home systems",
+            "Phone": 336,
+            "location": " 48 Hill Station Road, Freetown, ",
+            "founded": 2016,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "Energy",
+      
+        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/306746445_528437682617455_5491255769934318515_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=cRtGbDuseg0Q7kNvgEn411e&_nc_oc=AdhU-nnxhSKkxMAvsgTPHnetMGnlZjqclVsk3mGj6vEQ3Q9WsVXN26sBlA06Ayc3hmE&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=ArMfu5kOIgScSEZEVPxgjqh&oh=00_AYEJQBQs1k0BuesZlVK73ksiO_3hmu7c4HfrWWNk0JBXQQ&oe=67D8EADF",
+        "links": {
+            "website": "https://www.easysolar.org/",
+            "facebook" :  "https://www.facebook.com/easysolar.sl/",
+            "x": "https://x.com/easysolar_sl",
+            "instagram": "https://www.instagram.com/easysolar.sl/"
+        },
+        "reviews" : [
+            {
+                "id":1,
+                "author": "Joseph Kargbo",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "Reliable and affordable solar solutions! My household now enjoys consistent power without relying on generators. Highly recommended!",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id":2,
+                "author": "Samuel T",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "Easy Solar made my transition to solar energy seamless. Their payment plans are flexible, and customer service was very responsive.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Salone Agro Market",
+        "service": "Ecommerce for seller to buyer for agricultural product",
+        "aboutStartups":{
+            "about": "Salone Agro Market is a digital online platform based in Sierra Leone that connects farm to markets in an easy secure and convenient manner, the bridge that solve the connectivity gap between buyers and sellers of a agricultural products",
+            "phone": 232,
+            "location": "3 Malta Street, Freetown, Sierra Leone",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "E-commerece",
+        "startUpLogo": "https://saloneagromarket.com/wp-content/uploads/2022/04/facebook_cover_photo_1-6.png",
+        "links": {
+            "website": "https://saloneagromarket.com/",
+            "x": "#",
+            "facebook": "#",
+            "instagram": "#"
+        },
+        "reviews" : [
+            {
+                "id":1,
+                "author": "Mariama Kamara",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "This platform has made it easy for me to find buyers for my farm produce without stress. Secure transactions and smooth delivery process",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id":2,
+                "author": "Alhaji B",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "A much-needed service for Sierra Leone’s agriculture industry. Great concept, but desgin and user experience needs improvement.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Eco-Smart",
+        "service": "Eco-Smart is a cutting-edge mobile application designed to empower communitties across Sierra Leone with real-time, accessible climate information",
+        "aboutStartups":{
+            "about": "Eco-Smart is a cutting-edge mobile application designed to empower communitties across Sierra Leone with real-time, accessible climate information",
+            "phone": 232,
+            "location": "5 Soldier Street, Freetown",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "Climate Change",
+        "startUpLogo": "https://eco-smartapp.com/wp-content/uploads/2025/01/ECO-SMART-LOGO.png-LONG-VERSION-PNG-768x171.png",
+        "links": {
+            "website": "https://eco-smartapp.com/",
+            "x": "",
+            "facebook": "",
+            "instagram": ""
+        },
+        "reviews" : [
+            {
+                "id": 1,
+                "author": "John K",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "Finally, an app that keeps me updated on real-time climate conditions in my area! This has helped me plan my farming activities better.",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id": 2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "Very informative! I appreciate the climate tips and weather alerts, but I’d love to see more interactive features in future updates.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Route360 Solutions Initiative",
+        "service": "construction",
+        "aboutStartups":  {
+            "about": "Route360 Solutions Initiative provides alternatives to conventional construction materials.By collecting recyclable plastic waste material and transform them into eco-friendly bricks and paver for house construction and outdoor pavement.",
+            "phone" : 232,
+            "location": "18 Johnson Street, Freetown",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "Construction",
+        "startUpLogo": "https://www.route360solutionsinitiative.com/wp-content/uploads/2024/05/Route-360-Logo-92x61.jpg",
+        "links":{
+            "website": "https://www.route360solutionsinitiative.com/",
+            "x": "",
+            "facebook": "",
+            "instagram": ""
+        },
+        "reviews" : [
+            {
+                "id": 1,
+                "author": "Mohamed Sesay",
+                "rating": "⭐⭐⭐⭐⭐ (5/5)",
+                "comment": "Brilliant idea! Using recycled plastic for construction is not only eco-friendly but also durable. I’ve seen their bricks in use, and they are impressive.",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id": 2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "Affordable and sustainable construction solutions. I hope they expand to more regions soon!",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    }, 
+    {
+        "id": 11,
+        "name": "The Community",
+        "service": "Peer to Peer (P2P) lending platform.",
+        "aboutStartups": {
+            "about" :  "Peer to Peer (P2P) lending platform where lenders can invest and borrower (small businesses) can access to micro loans their business.",
+            "phone": 23272371617,
+            "location": "10 Sir Samuel Lewis Street, Freetown",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "FinTech",
+        "startUpLogo": "https://static.wixstatic.com/media/aac41b_3dbe9ee34dca4f31ad78194875014309~mv2.png/v1/crop/x_133,y_116,w_839,h_358/fill/w_146,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202022-11-14%20at%2012_26_27%20PM%20(4).png",
+        "links":{
+            "website": "https://www.thecommunitysl.com/",
+            "x": "https://x.com/thecommunitysl",
+            "facebook": "https://www.facebook.com/thecommunitysl",
+            "instagram": "https://www.instagram.com/thecommunitysl/"
+        },
+        "reviews" : [
+            {
+                "id": 1,
+                "author": "Mohamed Sesay",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "This platform helped me secure a microloan for my business without the hassle of traditional banks. The process was smooth and efficient!",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id": 2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐ (3/5)",
+                "comment": "A good alternative for small business loans, but the approval process can sometimes take longer than expected.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Greentech Bioenergy",
+        "service": "Recycle and clean energy",
+        "aboutStartups":{
+            "about" : "Use portable domestic biodigester to help households, farmers and institutions to convert their organic waste into clean cooking biogas and nutrients-rich biofertilizer.",
+            "phone": 232,
+            "location": "",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        } ,
+        "industry": "Energy",
+        "startUpLogo": "https://www.facebook.com/photo/?fbid=114227971522825&set=a.111205965158359",
+        "links": {
+            "website": "#",
+            "x": "#",
+            "facebook": "https://www.facebook.com/profile.php?id=100088068684352",
+            "instagram": "#"
+        },
+        "reviews" : [
+            {
+                "id": 1,
+                "author": "Mohamed Sesay",
+                "rating": "⭐⭐⭐⭐ (4.7/5)",
+                "comment": "Greentech Bioenergy is revolutionizing waste management! Their biodigesters have helped me turn kitchen waste into clean cooking gas, reducing my expenses on fuel.",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id": 2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "This is an innovative and much-needed solution for sustainable energy. The biofertilizer has also improved the quality of my farm produce. I just wish their products were more widely available.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    
+    {
+        "id": 13,
+        "name": "BudgIT Sierra Leone",
+        "service": "BudgIT is a civic startup that applies technology to intersect citizen engagement with institutional improvement.",
+        "aboutStartups":{
+            "about" :  "BudgIT is a civic startup that applies technology to intersect citizen engagement with institutional improvement, to facilitate societal change.",
+            "phone":23272141811,
+            "location": "364B Bai Bureh Road, Calaba Town, Freetown",
+            "founded": 2024,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        },
+        "industry": "NGO",
+        "startUpLogo": "https://sierraleone.budgit.org/wp-content/uploads/2021/06/BudgIT_logo_SL.svg",
+        "links":{
+            "website": "https://sierraleone.budgit.org/",
+            "x": "#",
+            "facebook": "https://www.facebook.com/BudgitSLeone",
+            "instagram": "#"
+        },
+        "reviews" : [
+            {
+                "id" : 1,
+                "author": "Mohamed Sesay",
+                "rating": "⭐⭐⭐⭐ (4.7/5)",
+                "comment": "BudgIT is doing an amazing job in promoting transparency and accountability. Their innovative approach to using technology for civic engagement is truly inspiring!",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id": 2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐ (3/5)",
+                "comment": "I appreciate their efforts, but I think there’s room for improvement in reaching more grassroots communities. Some of their reports could be more simplified for easier understanding",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+   
+    {
+        "id": 14,
+        "name": "St-Conrad Co.",
+        "service": "Provides Clean Cooking utilities",
+        "aboutStartups":{
+            "about" : "We provide clean cooking solutions in the form of briquettes and energy efficient cookstoves to help reduce household air pollution and a cleaner source of cooking",
+            "phone": 23233398000,
+            "location": "",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        } ,
+        "industry": "Energy",
+        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/288993933_618213833063791_7022578104245159673_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Hq6pQTcXYvYQ7kNvgE0Aqkx&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=UHoFvIboUE3jrWjwWXQYFA&oh=00_AYGyz_Z_NuNYOkEqz8MbZpKNgwdyOteggy_zpaOvkQ5Rfw&oe=67EDEA0D",
+        "links": {
+            "website": "#",
+            "x": "#",
+            "facebook": "https://www.facebook.com/the.cleaner.cooking.solution/",
+            "instagram": "#"
+        },
+        "reviews" : [
+            {
+                "id": 1,
+                "author": "Mohamed Sesay",
+                "rating": "⭐⭐⭐⭐ (4.7/5)",
+                "comment": "Their energy-efficient cookstoves are a game-changer! It’s great to see a company focusing on reducing household air pollution while providing sustainable solutions",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id": 2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "The concept is brilliant, and the briquettes are a great alternative to charcoal. However, I wish they were more widely available in rural areas",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    },
+    {
+        "id": 15,
+        "name": "EntoTech",
+        "service": "Providing sustainable agricultural solutions, including improved farming practices, eco-friendly plant protection, and alternative protein sources.",
+        "aboutStartups":{
+            "about" : "Agriculture is the backbone of Sierra Leone’s economy, employing over 60% of the rural population and contributing 46% of the GDP. However, farming remains largely subsistent, with low-input practices and reliance on conventional and agroecological systems. Challenges include inefficient pesticide use, environmental risks, food safety concerns, and limited protein sources, leading to high malnutrition rates.",
+            "phone": 23278555604,
+            "location": "41 Macdonald street freetown",
+            "founded": 2023,
+            "operationHours": {
+                "open": "9:00",
+                "close": "10:00"
+            }
+        } ,
+        "industry": "Agri-Business",
+        "startUpLogo": "https://entotechinnovations.org/wp-content/uploads/2024/03/ento_tech.png?w=205&h=99",
+        "links": {
+            "website": "https://entotechinnovations.org/",
+            "x": "#",
+            "facebook": "https://www.facebook.com/profile.php?id=100089548035237",
+            "instagram": "#"
+        },
+        "reviews" : [
+            {
+                "id": 1,
+                "author": "Mohamed Sesay",
+                "rating": "⭐⭐⭐⭐ (4.7/5)",
+                "comment": "EntoTech is making a significant impact on sustainable agriculture. Their eco-friendly plant protection solutions are much needed to improve food security!.",
+                "createdAt": "2023-11-05"
+            },
+            {
+                "id": 2,
+                "author": "Aminata Conteh",
+                "rating": "⭐⭐⭐⭐ (4/5)",
+                "comment": "I love their focus on alternative protein sources and sustainable farming, but I think they should work on more affordable solutions for small-scale farmers.",
+                "createdAt": "2023-10-12"
+            }
+            
+        ]
+    }
+]
