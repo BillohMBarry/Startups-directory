@@ -15,14 +15,17 @@ function Home() {
   
   return (  
     <article className="container mx-auto px-4 py-8  ">
-      <section className="flex justify-between flex-wrap items-center mb-6">
+      <section className="flex justify-between  p-4 flex-wrap items-center mb-6">
         <h1 className="font-bold text-gray-700">List of Startups in Sierra Leone</h1>
         <Link to={"/addStartup"} className="bg-blue-600 hover:bg-blue-700 text-white font-md py-2 px-4 rounded">Add Startup</Link> 
       </section>
-      <section className=" mb-6 flex  items-center">
-        <form action={handlingFormInput}>           
+      <section className=" mb-6">
+        <form action={handlingFormInput}>   
+          <div className="flex gap-5 flex-wrap">
           <input type="text" name="search" id="search" aria-label="search" placeholder="lowerCase letters e.g life blood" className="bg-gray-500 text-white rounded-md p-2 w-70"  />
-          <button className="bg-blue-600 text-white font-md py-2 px-4 ml-8 rounded">Search</button>
+          <button className="bg-blue-600 text-white font-md py-2 px-4 rounded">Search</button>
+            </div>        
+
         </form>
       </section>
       <div className="overflow-x-auto shadow-md rounded-lg ">
