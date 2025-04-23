@@ -9,9 +9,8 @@ function AddStartup() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
               <label htmlFor="name" className="block font-medium text-gray-700">Startup Name</label>
-              <input type="text" id="name" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+              <input type="text" id="name" name="name" autoComplete="true" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
-      
             <div>
               <label htmlFor="description" className="block font-medium text-gray-700">Short Description</label>
               <textarea id="description" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
@@ -22,11 +21,11 @@ function AddStartup() {
             </div>
             <div>
               <label htmlFor="founded" className="block font-medium text-gray-700">founded</label>
-              <input type="text" id="name"  className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300"  />
+              <input type="date" name="found" id="founded" autoComplete="true" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300"  />
             </div>
             <div>
-              <label htmlFor="Logo" className="block font-medium text-gray-700">StartupLogo</label>
-             <input type="file" id="Logo"  className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300"  />
+              <label htmlFor="Startuplogo" className="block font-medium text-gray-700">StartupLogo</label>
+             <input type="file" id="Startuplogo" name="Startuplogo"  className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300"  />
             </div>
           </div>
       
@@ -34,15 +33,15 @@ function AddStartup() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
               <label htmlFor="website" className="block font-medium text-gray-700">Website URL</label>
-              <input type="url" id="website" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+              <input type="url"  id="web" name="webURL" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
             <div>
-              <label htmlFor="phone" className="block font-medium text-gray-700">Phone</label>
-              <input type="number" id="name" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300"  />
+              <label htmlFor="contactPhone" className="block font-medium text-gray-700">Phone</label>
+              <input type="number" id="phone" name="Phone" autoComplete="true" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300"  />
             </div>
             <div>
               <label htmlFor="email" className="block font-medium text-gray-700">Contact Email</label>
-              <input type="email" id="email" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+              <input type="email" id="email" name="email"  autoComplete="true" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
           </div>
       
@@ -89,19 +88,20 @@ function AddStartup() {
           {/* Address */}
           <div>
             <label htmlFor="address" className="block font-medium text-gray-700">Address</label>
-            <input type="text" id="address" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+            <input type="text" id="address" autoComplete="true" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
           </div>
       
           {/* Team Member Details */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <h3>Founder Profile</h3>
             <div>
-              <label htmlFor="team-name" className="block font-medium text-gray-700">Team Member Name</label>
-              <input type="text" id="team-name" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+              <label htmlFor="firstName" className="block font-medium text-gray-700">Name</label>
+              <input type="text" id="firstName" name="firstName" autoComplete="given-name" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
       
             <div>
-              <label htmlFor="role" className="block font-medium text-gray-700">Role</label>
-              <input type="text" id="role" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+              <label htmlFor="LastName" className="block font-medium text-gray-700">Role</label>
+              <input type="text" id="LastName" autoComplete="family-name" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
           </div>
       
@@ -122,7 +122,7 @@ function AddStartup() {
       
           {/* Submit Button */}
           <div className="text-right">
-            <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-all">
+            <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-all" aria-label="submit form">
               Submit
             </button>
           </div>

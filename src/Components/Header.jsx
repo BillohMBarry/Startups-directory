@@ -10,11 +10,12 @@ function Header() {
       <nav className="flex flex-col md:flex-row items-center  gap-4">
         <ul className="flex justify-center space-x-8 mt-5 md:mt-0 list-none text-black"> 
           <li>
-            <Link className="hover:bg-white  text-gray-800  p-1 rounded-md cursor-pointer list-none mr-5" to={"/Home"}>Home</Link>
+            <Link className="hover:bg-white  text-gray-800  p-1 rounded-md cursor-pointer list-none mr-5" to={"/"}>Home</Link>
           </li>   
 
-         <li> <Link className="hover:bg-white  text-gray-800  p-1 rounded-md cursor-pointer list-none mr-5" to={"/"}>Industries</Link></li>
          <li> <Link className="hover:bg-white  text-gray-800  p-1 rounded-md cursor-pointer list-none mr-5" to={"/"}>Top 50</Link></li>
+         <li> <Link className="hover:bg-white  text-gray-800  p-1 rounded-md cursor-pointer list-none mr-5" to={"/"}>Founders</Link></li>
+         <li> <Link className="hover:bg-white  text-gray-800  p-1 rounded-md cursor-pointer list-none mr-5" to={"/"}>Blog</Link></li>
             
         </ul>
       </nav>

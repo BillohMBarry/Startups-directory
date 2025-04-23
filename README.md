@@ -1,7 +1,8 @@
 # Startups-directory
 
 # Description 
-A comprehensive directory of startups in Freetown, Sierra Leone. This platform allows users to discover, search, and contribute to a growing database of local entrepreneurial ventures.
+StartUps Directory is a platform that provides detailed information about startups accross sierra leone, showcasing inovation throughout the country.
+
 
 # Features
 - Explore a list of startups.

@@ -2,9 +2,9 @@
     {
         "id": 1,
         "name": "SenMe",
-        "service": "Provides Delivery/pickups service with real time tracking system.",
+        "service": "Provides Delivery and pickups service with real time tracking system.",
         "aboutStartups" :{
-            "about" : "   Send Me is a comprehensive logistics and delivery service with robust ecommerce capabilities, providing seamless ordering, product purchases, and item pickups through a unified platform accessible via web and native mobile applications.",
+            "about" : "Send Me is a comprehensive logistics and delivery service with robust ecommerce capabilities, providing seamless ordering, product purchases, and item pickups through a unified platform accessible via web and native mobile applications.",
             "phone": 23278691733,
             "location": "16 river drive, Off Kingharman road, freetown",
             "founded": 2021,
@@ -13,7 +13,7 @@
                 "close": "9:00"
             }
         },
-        "industry": "Transportation/Logistics",
+        "industry": "Transportation",
         "startUpLogo": "https://static.wixstatic.com/media/275378_cf7887d48d9541a1a81409bed4cb12ad~mv2.png/v1/fill/w_126,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SENDME_PNG.png",
         "links": 
             {
@@ -132,7 +132,7 @@
             }
         },
         "industry": "HealthCare",
-        "startUpLogo": "https://www.sierradentsl.com/uploads/SIERRALogo8.png",
+        "startUpLogo": "https://www.sierradentsl.com/uploads/SIERRALogo3.png",
         "links":{
             "website": "https://www.sierradentsl.com",
             "x": "",
@@ -200,7 +200,7 @@
     },
     {
         "id": 6,
-        "name": "Oswald's Tech Company Limited",
+        "name": "Oswald's Tech",
         "service": "solar energy for homes",
         "aboutStartups":{
             "about": "Oswald Tech LTD is an innovative startup revolutionizing renewable energy with its Water Light Technology, which converts saltwater into clean electrical energy using ionized electrolytes and magnesium. Focused on sustainability, the company aims to reduce waste and provide efficient, eco-friendly energy solutions.",
@@ -213,7 +213,7 @@
             }
         },
         "industry": "Energy",
-        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/248041221_3014776112104370_3595719997041195088_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xTAtV8o8ddEQ7kNvgFvqBSl&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=DJvBNkRzHO63UfWs7RjceA&oh=00_AYHMikSSJMp-xps92mXYqHsbWh7I82XIqsCZWMIhD8jcmg&oe=67EE177F",
+        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/248041221_3014776112104370_3595719997041195088_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=n-phvwvFs-MQ7kNvwFiyEda&_nc_oc=AdnFmczdBSTtrntna-KObDxoqH63E0vKF8QW7oKrgsyAG1GqK8AE3mdHw9wFYVg3niI&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=AK_h2oZEtPSBEfm_BNMLlA&oh=00_AfHAekVktsdzdawZ157BO9Frh2PIiQJb90wbYNGLm0OTvQ&oe=680ED4BF",
         "links": {
             "website": "#",
             "x": "#",
@@ -254,7 +254,7 @@
         },
         "industry": "Energy",
       
-        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/306746445_528437682617455_5491255769934318515_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=cRtGbDuseg0Q7kNvgEn411e&_nc_oc=AdhU-nnxhSKkxMAvsgTPHnetMGnlZjqclVsk3mGj6vEQ3Q9WsVXN26sBlA06Ayc3hmE&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=ArMfu5kOIgScSEZEVPxgjqh&oh=00_AYEJQBQs1k0BuesZlVK73ksiO_3hmu7c4HfrWWNk0JBXQQ&oe=67D8EADF",
+        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/306746445_528437682617455_5491255769934318515_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ZHrkI-sSU0wQ7kNvwGTzZHl&_nc_oc=AdmmpzVuSXG_jQORL3VmlOny2xi4hfGdhv6HttkiJ7KieionoPk_2WR5PT-3sKua_bQ&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=6MK6G1VcDc-dmg22Suyjxg&oh=00_AfFQkJLSM-tPEYFKAyvWoirAOE7dg3YoLyMNCpdyfp2plw&oe=680EC01F",
         "links": {
             "website": "https://www.easysolar.org/",
             "facebook" :  "https://www.facebook.com/easysolar.sl/",
@@ -454,7 +454,7 @@
             }
         } ,
         "industry": "Energy",
-        "startUpLogo": "https://www.facebook.com/photo/?fbid=114227971522825&set=a.111205965158359",
+        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/318615874_114227954856160_804708186197934055_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=v-7pGd6FGyYQ7kNvwHSPdex&_nc_oc=AdlxqEXwfNMtXdPSJjPQiqUfskF1lecww8zMHNzwbEDy49bPFUyEEd2607TrN6bZxGI&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=hRMIhz_M3JrSGZrNAcstfw&oh=00_AfEZdxxo3RexBklrcooae50eWh1jyIU6x__UiWEnPequOg&oe=680ED270",
         "links": {
             "website": "#",
             "x": "#",
@@ -536,7 +536,7 @@
             }
         } ,
         "industry": "Energy",
-        "startUpLogo": "https://scontent.ffna3-1.fna.fbcdn.net/v/t39.30808-6/288993933_618213833063791_7022578104245159673_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Hq6pQTcXYvYQ7kNvgE0Aqkx&_nc_zt=23&_nc_ht=scontent.ffna3-1.fna&_nc_gid=UHoFvIboUE3jrWjwWXQYFA&oh=00_AYGyz_Z_NuNYOkEqz8MbZpKNgwdyOteggy_zpaOvkQ5Rfw&oe=67EDEA0D",
+        "startUpLogo": "https://www.facebook.com/photo?fbid=544565977670259&set=pb.100063505841257.-2207520000",
         "links": {
             "website": "#",
             "x": "#",

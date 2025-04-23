@@ -1,6 +1,6 @@
 
 function Review({startupReview}) {
-  return (
+    return (
         <>
             <div className='border rounded-md m-3 p-6'>
                 <div className='flex justify-between mt-3'>
@@ -9,8 +9,7 @@ function Review({startupReview}) {
                 </div>
                 <p className="text-xl mb-3">{startupReview.comment}</p>
                 <span>{startupReview.createdAt}</span>
-            </div>
-       
+            </div>      
         </>
     )
 }
