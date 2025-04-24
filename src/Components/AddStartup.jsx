@@ -91,35 +91,26 @@ function AddStartup() {
             <input type="text" id="address" autoComplete="true" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
           </div>
       
-          {/* Team Member Details */}
+          {/* founder Details */}
+          <h3>Founder Profile</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <h3>Founder Profile</h3>
             <div>
               <label htmlFor="firstName" className="block font-medium text-gray-700">Name</label>
               <input type="text" id="firstName" name="firstName" autoComplete="given-name" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
-      
             <div>
-              <label htmlFor="LastName" className="block font-medium text-gray-700">Role</label>
-              <input type="text" id="LastName" autoComplete="family-name" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+              <label htmlFor="linkedin" className="block font-medium text-gray-700">LinkedIn Profile</label>
+              <input type="url" id="linkedin" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
           </div>
-      
           <div>
             <label htmlFor="bio" className="block font-medium text-gray-700">Bio</label>
             <textarea id="bio" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
           </div>
-      
-          <div>
-            <label htmlFor="linkedin" className="block font-medium text-gray-700">LinkedIn Profile</label>
-            <input type="url" id="linkedin" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
-          </div>
-      
           <div>
             <label htmlFor="profile-pic" className="block font-medium text-gray-700">Profile Picture</label>
             <input type="file" id="profile-pic" className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
           </div>
-      
           {/* Submit Button */}
           <div className="text-right">
             <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-all" aria-label="submit form">

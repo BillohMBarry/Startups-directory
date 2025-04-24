@@ -8,7 +8,6 @@ function ReviewModeration({ startupReview, onStatusChange }) {
 
   const handleModerateReview = (newStatus) => {
     setIsLoading(newStatus);
-    
     // Simulate a delay to mimic API call
     setTimeout(() => {
       setStatus(newStatus);
@@ -28,7 +27,7 @@ function ReviewModeration({ startupReview, onStatusChange }) {
     rejected: {
       text: "Rejected",
       color: "text-red-600",
-      icon: <ShieldX size={14} />,
+      icon: <ShieldX size={14}  />,
     },
     pending: {
       text: "Pending",
@@ -36,6 +35,16 @@ function ReviewModeration({ startupReview, onStatusChange }) {
       icon: <Clock size={14} />,
     },
   };
+
+  const clipColor = (buttonStatus) => {
+    if(isLoading === buttonStatus) {
+      return  buttonStatus === "rejected" ?
+      <ClipLoader color='red' /> : 
+      <ClipLoader color='green' />
+    }
+    return null
+  }
+
   // Map status to button label
   const renderButton = (buttonStatus, label) => (
     <div
@@ -49,13 +58,13 @@ function ReviewModeration({ startupReview, onStatusChange }) {
         onClick={() => handleModerateReview(buttonStatus)}
         disabled={isLoading !== null}
       >
-        {isLoading === buttonStatus ? <ClipLoader color="blue" /> : label}
+        {isLoading === buttonStatus ? clipColor(buttonStatus) : label}
       </button>
     </div>
   );
-
+  // let clipColor = isLoading ? <ClipLoader color='green' /> : <ClipLoader color='red' />
   return (
-    <div className={`bg-card p-6 rounded-xl border  mt-5  ${status === "rejected" ? "opacity-80" :""} `}>
+    <div className={`bg-card p-6 rounded-xl border  mt-5  ${status === "rejected" ? "opacity-60" :""} `}>
       <h3 className="text-xl font-semibold mb-4 flex items-center gap-2"><Flag />Review Moderation</h3>
       <div className="space-y-6">
         <div className="flex flex-wrap justify-between gap-2 items-start mb-2">

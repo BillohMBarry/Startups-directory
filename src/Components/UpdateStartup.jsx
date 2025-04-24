@@ -22,11 +22,11 @@ function UpdateStartup() {
 
  
  // Show loading state if startup data isn't loaded yet
-if (isLoading) {
+ if (isLoading) {
   return(
     <div className="mt-6 flex justify-center items-center" >
       <span>Loading startup info</span>
-        <ClipLoader color="#036ffc" />
+      <ClipLoader color="#036ffc" />
     </div>
   )    
   }

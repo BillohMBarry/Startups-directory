@@ -46,7 +46,7 @@ function Home() {
           </thead>
           {noResults &&
             <div className="text-center m-7">
-              <p className="font-bold">No Result found</p>
+              <p className="font-bold text-gray-800 text-medium sm:text-lg">No Result found</p>
             </div> 
           }  
           <tbody className="divide-y divide-gray-200 sm:flex-col ">
@@ -66,7 +66,7 @@ function Home() {
                     {item.service}
                   </Link>
                 </td>
-                <td className=" md:table-cell py-4 px-6 text-justify text-gray-800 text-medium sm:text-lg sm:text-base">
+                <td className=" md:table-cell py-4 px-6 text-justify text-gray-800 text-medium sm:text-lg ">
                   <Link to={`/startUpsDetails/${item.name}`}>
                    {item.industry}
                   </Link>
