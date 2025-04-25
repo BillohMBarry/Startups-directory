@@ -36,6 +36,7 @@ function ReviewModeration({ startupReview, onStatusChange }) {
     },
   };
 
+  // change the clip loader color based on the status
   const clipColor = (buttonStatus) => {
     if(isLoading === buttonStatus) {
       return  buttonStatus === "rejected" ?

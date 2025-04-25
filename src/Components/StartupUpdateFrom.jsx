@@ -60,9 +60,10 @@ function StartupUpdateFrom({formSubmit,startup,setStartup}) {
         </div>
         {/* Website & Contact */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Address */}
             <div>
-                <label htmlFor="website" className="block font-medium text-gray-700">Website URL</label>
-                <input type="url" id="website" name="website" value={startup.links.website} onChange={handleChange}  className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+                <label htmlFor="address" className="block font-medium text-gray-700">Address</label>
+                <input type="text" id="address" name="address" autoCorrect='true' value={startup.aboutStartups.location}onChange={handleChange}  className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
             <div>
                 <label htmlFor="email" className="block font-medium text-gray-700">Email</label>
@@ -110,9 +111,13 @@ function StartupUpdateFrom({formSubmit,startup,setStartup}) {
         {/* Social Media */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
-            <label htmlFor="x" className="block font-medium text-gray-700">Twitter (X) Link</label>
-                <input type="url" id="x" name="x" value={startup.links.x} onChange={handleChange} className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+                <label htmlFor="website" className="block font-medium text-gray-700">Website URL</label>
+                <input type="url" id="website" name="website" value={startup.links.website} onChange={handleChange}  className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
+            <div>
+                <label htmlFor="x" className="block font-medium text-gray-700">Twitter (X) Link</label>
+                    <input type="url" id="x" name="x" value={startup.links.x} onChange={handleChange} className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
+                </div>
             <div>
                 <label htmlFor="facebook" className="block font-medium text-gray-700">Facebook Page</label>
                 <input type="url" id="facebook" name="facebook" value={startup.links.facebook} onChange={handleChange} className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
@@ -122,11 +127,7 @@ function StartupUpdateFrom({formSubmit,startup,setStartup}) {
                 <input type="url" id="instagram" name="instagram" value={startup.links.Instagram} onChange={handleChange} className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
             </div>
         </div>
-        {/* Address */}
-        <div>
-            <label htmlFor="address" className="block font-medium text-gray-700">Address</label>
-            <input type="text" id="address" name="address" autoCorrect='true' value={startup.aboutStartups.location}onChange={handleChange}  className="mt-1 block w-full p-3 border border-gray-300 rounded-lg focus:ring focus:ring-blue-300" />
-        </div>
+       
         {/* Founder Details */}
         <h3 className='text-gray-700 sm:text-lg'>Founder Profile</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

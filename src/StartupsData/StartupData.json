@@ -44,9 +44,9 @@
     { 
         "id": 2,
         "name": "Mocha",
-        "service": "Financial Service and remittance",
+        "service": "Financial Service and remittance.",
         "aboutStartups": {
-            "about" : "A pioner Financial service design for the african continents. Mocha break down the barriers of traditional financial services, offering a simple, instant and efficient way to send and receive money",
+            "about" : "A pioner Financial service design for the african continents. Mocha break down the barriers of traditional financial services, offering a simple, instant and efficient way to send and receive money.",
             "phone": 23273938372,
             "location": "Christex foundation, Lower faculty, FBC, Freetown",
             "founded": 2023,
@@ -78,8 +78,8 @@
     },
     {
         "id": 3,
-        "name": "monime",
-        "service": "Digital payment solutions for businesses.",
+        "name": "Monime",
+        "service": "Digital payment solutions for businesses and payout api interagration.",
         "aboutStartups":{
             "about" : "Monime offers business comprehensive digital payment solutions,including payouts and full-stack APIs for developer to seamless integration of these functionalities into their operations.",
             "location":  "5 Hillside Bypass Road, Freetown",
@@ -120,7 +120,7 @@
     {
         "id": 4,
         "name": "Sierra Dental Clinic",
-        "service": "Dental HealthCare",
+        "service": "Dental HealthCare.",
         "aboutStartups": {
             "about" : "Dental HealthCare facility that provides personalized treatments tailored to your individual needs.",
             "phone" : 23276232232,
@@ -160,7 +160,7 @@
     {
         "id": 5,
         "name": "Life Blood",
-        "service": "A digital health platform, for blood donation",
+        "service": "A digital health platform, which provides safe access to blood donation for those in need.",
         "aboutStartups":{
             "about": "A digit health platform, which is developed to help address the problem of acute shortages in blood products in the country's health care delivery system",
             "phone" : 23278621647,
@@ -201,7 +201,7 @@
     {
         "id": 6,
         "name": "Oswald's Tech",
-        "service": "solar energy for homes",
+        "service": "Provides solar energy utilities for homes, which uses sea saltwater to generate electricity.",
         "aboutStartups":{
             "about": "Oswald Tech LTD is an innovative startup revolutionizing renewable energy with its Water Light Technology, which converts saltwater into clean electrical energy using ionized electrolytes and magnesium. Focused on sustainability, the company aims to reduce waste and provide efficient, eco-friendly energy solutions.",
             "phone" : 23278020555,
@@ -241,7 +241,7 @@
     {
         "id": 7,
         "name": "Easy Solar",
-        "service": "solar energy for homes",
+        "service": "Sell solar energy utilities for homes and small businesses",
         "aboutStartups": {
             "about":"Easy Solar is a distribution and asset financing company that buys solar lamps and solar home systems from reliable manufacturers and sells them using a Pay-As-You-Go (PAYG) financing structure, enabled by the technology embedded in the lamps and home systems",
             "Phone": 336,
@@ -282,7 +282,7 @@
     {
         "id": 8,
         "name": "Salone Agro Market",
-        "service": "Ecommerce for seller to buyer for agricultural product",
+        "service": "Ecommerce platform which connect farmer to buyer for agricultural product",
         "aboutStartups":{
             "about": "Salone Agro Market is a digital online platform based in Sierra Leone that connects farm to markets in an easy secure and convenient manner, the bridge that solve the connectivity gap between buyers and sellers of a agricultural products",
             "phone": 232,
@@ -362,7 +362,7 @@
     {
         "id": 10,
         "name": "Route360 Solutions Initiative",
-        "service": "construction",
+        "service": "Sell recycle plastic brick and paver for house construction and outdoor pavement.",
         "aboutStartups":  {
             "about": "Route360 Solutions Initiative provides alternatives to conventional construction materials.By collecting recyclable plastic waste material and transform them into eco-friendly bricks and paver for house construction and outdoor pavement.",
             "phone" : 232,
@@ -402,7 +402,7 @@
     {
         "id": 11,
         "name": "The Community",
-        "service": "Peer to Peer (P2P) lending platform.",
+        "service": "Peer to Peer (P2P) lending platform, which connects individuals and businesses with lenders and borrowers.",
         "aboutStartups": {
             "about" :  "Peer to Peer (P2P) lending platform where lenders can invest and borrower (small businesses) can access to micro loans their business.",
             "phone": 23272371617,
@@ -442,7 +442,7 @@
     {
         "id": 12,
         "name": "Greentech Bioenergy",
-        "service": "Recycle and clean energy",
+        "service": "Recycle and clean energy.",
         "aboutStartups":{
             "about" : "Use portable domestic biodigester to help households, farmers and institutions to convert their organic waste into clean cooking biogas and nutrients-rich biofertilizer.",
             "phone": 232,
@@ -524,9 +524,9 @@
     {
         "id": 14,
         "name": "St-Conrad Co.",
-        "service": "Provides Clean Cooking utilities",
+        "service": "Provides modern and clean cooking utilities fo homes, using local waste to create briquettes.",
         "aboutStartups":{
-            "about" : "We provide clean cooking solutions in the form of briquettes and energy efficient cookstoves to help reduce household air pollution and a cleaner source of cooking",
+            "about" : "We provide clean cooking solutions in the form of briquettes and energy efficient cookstoves to help reduce household air pollution and a cleaner source of cooking.",
             "phone": 23233398000,
             "location": "",
             "founded": 2023,

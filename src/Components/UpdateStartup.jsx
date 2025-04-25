@@ -12,6 +12,7 @@ function UpdateStartup() {
 
   const navigate = useNavigate();
 
+  // delay in loading startup information
   useEffect(() => {
    setTimeout(() => {
     const getStartup = StartupData.find((item) => item.name === name);
