@@ -7,7 +7,7 @@ import AddStartup from './Components/AddStartup'
 import UpdateStartup from './Components/UpdateStartup'
 import MainLayOut from './Layout/MainLayOut'
 import { Route, Routes } from 'react-router-dom'
-
+import { Analytics } from '@vercel/analytics/react'
 
 function App() {
   
@@ -20,6 +20,7 @@ function App() {
         <Route path='/addStartup' element={<AddStartup/>}/>
         <Route path='/startupsDetails/:name' element={<StartupDetails/>}/>
       </Routes>
+      <Analytics />
     </>
   )
 }
