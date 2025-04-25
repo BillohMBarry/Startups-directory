@@ -52,8 +52,7 @@ Startups-directory/
 
 ```
 # Screenshots
-![Screenshot 2025-03-30 21503](https://github.com/BillohMBarry/Startups-directory/blob/main/src/assets/Screenshot%202025-03-30%20215038.png)
-
+![Screenshot 2025-03-30 21503](https://github.com/BillohMBarry/Startups-directory/blob/main/src/assets/Screenshot.png)
 
 ## Contributing
 
